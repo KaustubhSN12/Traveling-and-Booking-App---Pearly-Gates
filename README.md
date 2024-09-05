@@ -1,2 +1,2 @@
 # Traveling-and-Booking-App---Pearly-Gates
-The "Pearly Gates✨" app offers a seamless travel booking experience, focusing on luxurious stays. It features user registration, login, travel packages, pricing, and secure payments. With a user-friendly interface, it allows users to explore destinations, book deluxe vacations, and manage invoices effortlessly.
+The "Pearly Gates✨" app is a demo concept application developed during the second year of an Android programming project. It simulates a seamless travel booking experience with features like user registration, login, travel package exploration, pricing, and secure payments. The app focuses on luxurious stays, offering an easy-to-use interface for booking deluxe vacations.
